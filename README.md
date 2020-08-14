@@ -106,7 +106,7 @@ Your answer...
 ```python
 # Your Python code goes here
 ```
-**2. What’s the linear complexity of your solution? (approximately)**
+**2. What’s the computational complexity of your solution? (approximately)**
 ```
 Your answer...
 ```
